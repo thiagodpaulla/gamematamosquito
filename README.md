@@ -25,7 +25,7 @@ https://thiagodpaulla.github.io/
 
 💻 
 
-A game, created with java script html and css, application of a lot of java script and use of essential foundations of the language.
+A game, created with java script html and css, application of a lot of java script and use of essential foundations of the language, html and css
 
 🚀 The project was developed using the following technologies
 
